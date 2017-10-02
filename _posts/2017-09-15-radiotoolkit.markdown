@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "RadioToolkit.com - платформа для интернет радиостанций"
+title:  "<center>RadioToolkit.com - платформа для интернет радиостанций</center>"
 categories: "Saas service"
 tags:  disney
 image:

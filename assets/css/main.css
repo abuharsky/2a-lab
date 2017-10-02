@@ -1983,7 +1983,7 @@ body {
   position: relative;
   background: #fff;
   width: 100%;
-  padding-bottom: 3rem;
+  padding-bottom: 2rem;
   -webkit-box-shadow: 0 1px 4px rgba(0, 0, 0, 0.2);
           box-shadow: 0 1px 4px rgba(0, 0, 0, 0.2);
 }
